@@ -1,0 +1,9 @@
+Package: sixarm-debian-emacs-packages
+Version: 1.0.2
+Section: devel
+Priority: optional
+Architecture: all
+Depends: emacs, emacs-goodies-el, emacs-jabber, cedet-common, cedet-contrib, ecb, speedbar, eieio, ede, semantic, cogre, slime, cscope
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: emacs packages we like to use
+ emacs packages we like to use together.
