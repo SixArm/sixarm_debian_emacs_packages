@@ -3,7 +3,7 @@ Version: 1.0.4
 Section: devel
 Priority: optional
 Architecture: all
-Depends: emacs, emacs-goodies-el, emacs-jabber, slime, cscope
+Depends: emacs, emacs-goodies-el, emacs-jabber, slime, cscope, texinfo
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: emacs packages we like to use
  emacs packages we like to use together.
