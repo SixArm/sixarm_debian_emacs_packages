@@ -1,9 +1,9 @@
 Package: sixarm-debian-emacs-packages
-Version: 1.0.5
+Version: 1.0.6
 Section: devel
 Priority: optional
 Architecture: all
-Depends: cscope, emacs, emacs-goodies-el, emacs-jabber, libgif-dev, slime, texinfo
+Depends: cbrowser,  cscope, cscope-el, dictd, emacs, emacs-goodies-el, emacs-jabber, libgif-dev, slime, texinfo
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: emacs packages we like to use
  emacs packages we like to use together.
