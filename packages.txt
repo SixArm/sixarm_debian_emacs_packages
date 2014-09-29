@@ -1,0 +1,10 @@
+cbrowser
+cscope
+cscope-el
+dictd
+emacs
+emacs-goodies-el
+emacs-jabber
+libgif-dev
+slime
+texinfo
